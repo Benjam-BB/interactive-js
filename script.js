@@ -101,6 +101,9 @@ button.addEventListener("click", function(){
     cardDeck.insertBefore(document.getElementsByClassName("col-md-4")[0], document.getElementsByClassName("col-md-4")[5].nextSibling);
 });  
   }
+
+  function function_9(){
+  }
   
 
 
@@ -113,3 +116,4 @@ button.addEventListener("click", function(){
   function_6();
   function_7();
   function_8();
+  function_9();
