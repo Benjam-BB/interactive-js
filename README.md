@@ -2,7 +2,7 @@
 
 #### Mode d'emploi
 
-1. Ouvre exo_events.html dans ton navigateur, ou le lien en production
+1. Ouvre exo_events.html dans ton navigateur
 2. Ouvre l'inspecteur avec F12 puis onglet "console" sous Linux, ou OPTION + CMD + J sous Mac
 3. Ouvre l'oeil sur les messages de console et sur les changements liés au JavaScript
 
